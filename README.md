@@ -39,7 +39,7 @@ Discount applied! Final price: KES 400000.00
 ```text
 Enter the original price of the item (KES): 500
 Enter the discount percentage: 10
- No discount applied. Price remains: KES 500.00
+No discount applied. Price remains: KES 500.00
 ```
 
 ---
