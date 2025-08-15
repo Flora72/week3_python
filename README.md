@@ -60,6 +60,14 @@ Enter the discount percentage: 10
 
 ---
 
+## Screenshots
+<img width="1440" height="858" alt="Screen Shot 2025-08-15 at 13 03 50" src="https://github.com/user-attachments/assets/5cd6213b-29f6-4c16-8d70-c787a4edcc86" />
+<img width="917" height="275" alt="Screen Shot 2025-08-15 at 13 03 22" src="https://github.com/user-attachments/assets/3fab3713-51aa-4bfb-b938-c7eee4c62a94" />
+<img width="1440" height="858" alt="Screen Shot 2025-08-15 at 13 03 04" src="https://github.com/user-attachments/assets/1292d9dd-b829-44db-bb2f-88cbb1bdf6b1" />
+
+
+
+
 ## License
 
 This project is open-source and free to use for educational or personal purposes.
