@@ -2,7 +2,7 @@
 
 This is a simple Python program that calculates the final price of an item after applying a discount. The discount is only applied if it is 20% or higher. Otherwise, the original price is returned.
 
-Currency used: **Kenyan Shillings (KES)**
+Currency used: Kenyan Shillings (KES)
 
 ---
 
